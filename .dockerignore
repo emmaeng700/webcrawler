@@ -1,0 +1,8 @@
+# Don’t send these to the Docker daemon
+.git
+*.md
+*.log
+*.DS_Store
+# Go build cache
+/bin
+/pkg
